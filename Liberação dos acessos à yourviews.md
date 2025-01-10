@@ -94,10 +94,10 @@ O acesso para a yourviews está pronto!
 **Mas calma!**
 
 Agora o próximo passo é inserir o script e elementos na faststore
-Para isso, [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes-faststore/blob/master/Instalar%20Yourviews%20na%20VTEX%20Faststore.md), para ver o passo a passo de como instalar o nosso app na vtex.
+Para isso, [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes-faststore/blob/master/Instalar%20Yourviews%20na%20VTEX%20Faststore.md), para ver o passo a passo.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEyODYzOTU3MDNdfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk3MTc1NThdfQ==
+eyJoaXN0b3J5IjpbMzYyNTQ1MzQzXX0=
 -->
